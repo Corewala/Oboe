@@ -1,8 +1,8 @@
 <img width="180" src="https://raw.githubusercontent.com/Corewala/Oboe/17ca646ccd4fd415a5f167f9c10217966ca8667f/oboe.svg" />
 
 # Oboe
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Corewala/Oboe#smother)
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://github.com/Corewala/Oboe#smother)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Corewala/Oboe#oboe)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://github.com/Corewala/Oboe#oboe)
 
 [![shields](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github)](https://github.com/Corewala/Oboe/releases/latest)
 
