@@ -16,4 +16,7 @@ A simple gtk TIDAL downloader.
 `gtk3`
 
 ## Install or uninstall Smother
-Run `install.sh` or use the latest self-extracting archive available [here](https://github.com/Corewala/Smother/releases/latest) to access installation options.
+Run `install.sh` or use the latest self-extracting archive available [here](https://github.com/Corewala/Smother/releases/latest) to access installation options. 
+
+## Notice
+For this software to work as intended, you will need to input your TIDAL username and password into `~/.config/mania/config.toml`.
