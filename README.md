@@ -1,10 +1,10 @@
-<img width="180" src="https://raw.githubusercontent.com/Corewala/Smother/c4b2f5b87048a58b6f9fa70552a331d8a71ce6f4/smother.svg" />
+<img width="180" src="https://raw.githubusercontent.com/Corewala/Oboe/58413d0d4156912223fb32dbe6a6902de107cefa/oboe.svg?token=AIOC33KOWL7MWPHAKKJW3ETANTR2G" />
 
-# Smother
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Corewala/Smother#smother)
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://github.com/Corewala/Smother#smother)
+# Oboe
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Corewala/Oboe#smother)
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://github.com/Corewala/Oboe#smother)
 
-[![shields](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github)](https://github.com/Corewala/Smother/releases/latest)
+[![shields](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge&logo=github)](https://github.com/Corewala/Oboe/releases/latest)
 
 A simple gtk TIDAL downloader.
 
@@ -15,13 +15,5 @@ A simple gtk TIDAL downloader.
 
 `gtk3`
 
-`ufw`
-
 ## Install or uninstall Smother
 Run `install.sh` or use the latest self-extracting archive available [here](https://github.com/Corewala/Smother/releases/latest) to access installation options.
-
-## Notice
-This software uses ufw, and will screw up your config. Do not use this software if you use ufw for anything else.
-
-## Credits
-"[Mask](https://thenounproject.com/ayub12/collection/jumpicon-pest-control-glyph/?i=2278085)" icon by Ayub Irawan from the [Noun Project](https://thenounproject.com/).
