@@ -1,4 +1,4 @@
-<img width="180" src="https://raw.githubusercontent.com/Corewala/Oboe/58413d0d4156912223fb32dbe6a6902de107cefa/oboe.svg?token=AIOC33KOWL7MWPHAKKJW3ETANTR2G" />
+<img width="180" src="https://raw.githubusercontent.com/Corewala/Oboe/5ea0cf98a0624b4ebe893a70edbd8830d8f60cfe/oboe.svg?token=AIOC33LHAJQCX2ZM64G52GTANTUIS" />
 
 # Oboe
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Corewala/Oboe#smother)
