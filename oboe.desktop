@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Oboe
+Exec=oboe
+Terminal=false
+Icon=oboe
+Categories=Music;
+StartupNotify=false
