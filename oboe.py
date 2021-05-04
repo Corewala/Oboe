@@ -49,7 +49,7 @@ class Oboe(Gtk.Window):
             self.session = mania.tidal.TidalSession()
             self.session.get_authorization()
             token = self.session.user_code
-            os.system("notify-send 'Oboe' 'Please sign in to TIDAl' -i oboe")
+            os.system("notify-send 'Oboe' 'Please sign in to TIDAL' -i oboe")
             os.system("xdg-open https://link.tidal.com/" + token)
             self.session.authenticate()
             with open(mania.constants.SESSION_PATH, "w") as session_file:
