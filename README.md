@@ -19,4 +19,4 @@ A simple gtk TIDAL downloader.
 Run `install.sh` or use the latest self-extracting archive available [here](https://github.com/Corewala/Oboe/releases/latest) to access installation options. 
 
 ## Notice
-For this software to work as intended, you will need to input your TIDAL username and password into `~/.config/mania/config.toml`.
+This software uses my fork of the development branch of mania for now.
