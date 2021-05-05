@@ -16,7 +16,4 @@ A simple gtk TIDAL downloader.
 `gtk3`
 
 ## Install or uninstall Oboe
-Run `install.sh` or use the latest self-extracting archive available [here](https://github.com/Corewala/Oboe/releases/latest) to access installation options. 
-
-## Notice
-This software does not work without the development branch of mania
+Run `install.sh` or use the latest self-extracting archive available [here](https://github.com/Corewala/Oboe/releases/latest) to access installation options.
