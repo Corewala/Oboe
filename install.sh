@@ -53,9 +53,9 @@ case $selection in
 	rm ~/.local/share/applications/oboe.desktop &> /dev/null
 	rm ~/.icons/oboe.svg &> /dev/null
 	if ! test -f ~/.local/bin/oboe; then
-	  printf "Successfully uninstalled Smother\n"
+	  printf "Successfully uninstalled Oboe\n"
 	else
-	  printf "Smother was not uninstalled\n"
+	  printf "Oboe was not uninstalled\n"
 	fi
     ;;
 
